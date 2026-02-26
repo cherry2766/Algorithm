@@ -2,12 +2,13 @@ package SWEA.View;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class Solution3 {
 
 	public static void main(String[] args) throws Exception {
-		BufferedReader br = new BufferedReader(new FileReader("./src/SWEA/View/sample_input.txt"));
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
 		// 테스트케이스 개수
 		int T = 10;
