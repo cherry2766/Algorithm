@@ -1,4 +1,4 @@
-package SWEA.flatten;
+package SWEA.flatten_1208;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

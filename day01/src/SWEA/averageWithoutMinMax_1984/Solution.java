@@ -1,4 +1,4 @@
-package SWEA.averageWithoutMinMax;
+package SWEA.averageWithoutMinMax_1984;
 
 import java.util.Scanner;
 

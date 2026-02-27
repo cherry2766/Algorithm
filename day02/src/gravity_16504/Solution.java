@@ -1,4 +1,4 @@
-package gravity;
+package gravity_16504;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

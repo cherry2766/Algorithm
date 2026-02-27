@@ -1,4 +1,4 @@
-package boj.toggleSwitch;
+package boj.toggleSwitch_1244;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

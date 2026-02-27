@@ -1,4 +1,4 @@
-package SWEA.middleValue;
+package SWEA.middleValue_2063;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
