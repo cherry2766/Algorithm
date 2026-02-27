@@ -59,4 +59,5 @@ public class Main {
 			arr[idx] = 1;
 		}
 	}
+
 }
