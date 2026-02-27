@@ -1,4 +1,4 @@
-package SWEA.중간평균값구하기;
+package SWEA.averageWithoutMinMax;
 
 import java.util.Scanner;
 

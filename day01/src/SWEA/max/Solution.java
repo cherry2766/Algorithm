@@ -1,4 +1,4 @@
-package SWEA.최대수구하기;
+package SWEA.max;
 
 import java.util.Scanner;
 

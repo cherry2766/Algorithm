@@ -1,4 +1,4 @@
-package SWEA.중간값찾기;
+package SWEA.middleValue;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

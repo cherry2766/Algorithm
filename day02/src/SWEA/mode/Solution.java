@@ -1,4 +1,4 @@
-package SWEA.최빈수구하기;
+package SWEA.mode;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

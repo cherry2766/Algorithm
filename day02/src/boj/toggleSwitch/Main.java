@@ -1,4 +1,4 @@
-package boj.스위치;
+package boj.toggleSwitch;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -30,14 +30,14 @@ public class Main {
 
 			if (G == 1) {
 				for (int j = num; j < T + 1; j += num) {
-					showSwitch(arr, j);
+					toggleSwitch(arr, j);
 				}
 			} else {
 				int z = 1;
-				showSwitch(arr, num);
+				toggleSwitch(arr, num);
 				while (num - z > 0 && num + z < T + 1 && arr[num - z] == arr[num + z]) {
-					showSwitch(arr, num - z);
-					showSwitch(arr, num + z);
+					toggleSwitch(arr, num - z);
+					toggleSwitch(arr, num + z);
 					z++;
 				}
 			}
@@ -52,7 +52,7 @@ public class Main {
 
 	} // main 끝
 
-	public static void showSwitch(int arr[], int idx) {
+	public static void toggleSwitch(int arr[], int idx) {
 		if (arr[idx] == 1) {
 			arr[idx] = 0;
 		} else {
