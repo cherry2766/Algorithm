@@ -1,4 +1,4 @@
-package SWEA.VerticalReading;
+package SWEA.VerticalReading_5356;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
