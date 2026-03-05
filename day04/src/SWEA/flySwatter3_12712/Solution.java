@@ -1,4 +1,4 @@
-package SWEA.FlySwatter3_12712;
+package SWEA.flySwatter3_12712;
 
 import java.io.BufferedReader;
 import java.io.IOException;

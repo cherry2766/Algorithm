@@ -1,4 +1,4 @@
-package SWEA.MountainTrail_25052;
+package SWEA.mountainTrail_25052;
 // 공굴러가유
 public class Solution2 {
     public static void main(String[] args) {

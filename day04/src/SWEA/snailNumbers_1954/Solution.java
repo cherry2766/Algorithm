@@ -1,4 +1,4 @@
-package SWEA.SnailNumbers_1954;
+package SWEA.snailNumbers_1954;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package SWEA.MountainTrail_25052;
+package SWEA.mountainTrail_25052;
 
 import java.io.BufferedReader;
 import java.io.IOException;
