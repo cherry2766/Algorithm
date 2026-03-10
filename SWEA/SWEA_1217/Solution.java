@@ -1,4 +1,4 @@
-package SWEA.power_1217;
+package SWEA_1217;
 
 import java.util.Scanner;
 
