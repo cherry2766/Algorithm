@@ -1,4 +1,4 @@
-package SWEA.balloonPang_9490;
+package SWEA_9490;
 
 import java.io.BufferedReader;
 import java.io.IOException;
