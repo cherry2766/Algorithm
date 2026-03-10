@@ -1,4 +1,4 @@
-package SWEA.Ladder1_1210;
+package SWEA_1210;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
