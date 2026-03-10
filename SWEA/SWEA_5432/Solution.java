@@ -1,4 +1,4 @@
-package SWEA.ironbar_5432;
+package SWEA_5432;
 
 import java.io.BufferedReader;
 import java.io.IOException;
