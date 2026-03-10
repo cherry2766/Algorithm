@@ -1,4 +1,4 @@
-package BOJ.numberContinuation_2635;
+package Silver.BOJ_2635;
 
 import java.io.BufferedReader;
 import java.io.IOException;
