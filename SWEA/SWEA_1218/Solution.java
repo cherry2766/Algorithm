@@ -1,4 +1,4 @@
-package SWEA.bracketmatching_1218;
+package SWEA_1218;
 
 import java.io.BufferedReader;
 import java.io.IOException;
