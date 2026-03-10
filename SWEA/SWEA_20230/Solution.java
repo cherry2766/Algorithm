@@ -1,4 +1,4 @@
-package SWEA.balloonPang_BonusGame2_20230;
+package SWEA_20230;
 
 import java.io.BufferedReader;
 import java.io.IOException;
