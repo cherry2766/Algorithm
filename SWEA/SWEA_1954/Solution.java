@@ -1,4 +1,4 @@
-package SWEA.SnailNumber_1954;
+package SWEA_1954;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
