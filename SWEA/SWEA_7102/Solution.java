@@ -1,4 +1,4 @@
-package SWEA.cardgame_7102;
+package SWEA_7102;
 
 import java.io.BufferedReader;
 import java.io.IOException;
