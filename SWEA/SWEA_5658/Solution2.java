@@ -1,4 +1,4 @@
-package SWEA.safePassword_5658;
+package SWEA_5658;
 
 import java.io.BufferedReader;
 import java.io.IOException;
