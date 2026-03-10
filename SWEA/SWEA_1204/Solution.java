@@ -1,4 +1,4 @@
-package SWEA.mode_1204;
+package SWEA_1204;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
