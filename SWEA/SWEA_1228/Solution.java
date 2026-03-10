@@ -1,4 +1,4 @@
-package SWEA.password_1228;
+package SWEA_1228;
 
 import java.io.BufferedReader;
 import java.io.IOException;
