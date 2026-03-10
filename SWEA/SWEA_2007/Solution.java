@@ -1,4 +1,4 @@
-package SWEA.patternlength_2007;
+package SWEA_2007;
 
 import java.io.BufferedReader;
 import java.io.IOException;
